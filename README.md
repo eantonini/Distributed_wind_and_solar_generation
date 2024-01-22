@@ -4,4 +4,4 @@ This repository contains setup files and instructions to reproduce results of th
 
 Enrico G. A. Antonini, Tyler H. Ruggles, David J. Farnham, Ken Caldeira, "The quantity-quality transition in the value of expanding wind and solar power generation", iScience 25 (4), 104140, 2022.
 
-If you need a copy of the paper, please email me at eantonini@carnegiescience.edu
+If you need a copy of the paper, please email me at enrico.antonini@cmcc.it
